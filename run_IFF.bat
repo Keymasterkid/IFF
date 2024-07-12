@@ -44,6 +44,10 @@ if "%CURRENT_VERSION%"=="%LATEST_VERSION%" (
     )
 )
 
+REM Install required Python packages
+echo Installing required Python packages...
+pip install instaloader colorama
+
 REM Run the Python script
 echo Running Instagram Followers/Followings Checker...
 python IFF.py
