@@ -1,6 +1,6 @@
 {
-    "username": "Instagram HERE",
-    "password": "Instagram Password",
-    "target_username": "username to stalk here",
+    "username": "your_instagram_username",
+    "password": "your_instagram_password",
+    "target_username": "username_to_monitor",
     "version": "1.0.0"
 }
